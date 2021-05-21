@@ -1,0 +1,12 @@
+.env
+/deployments/
+/.vscode/
+/build/
+/node_modules/
+/typechain/
+/artifacts/
+/cache/
+.DS_Store
+*.swp
+.tmp
+/yarn-error.log
